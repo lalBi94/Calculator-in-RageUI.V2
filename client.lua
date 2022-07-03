@@ -223,7 +223,7 @@ function RageUI.PoolMenus:Menus()
         end)
 
         Items:AddButton("~b~Expression : "..getExp(exp), " ", { IsDisabled = true }, function(onSelected) end) -- Affiche l'expression courrante
-	end, function(Panels) end)
+	end, function() end)
 end
 
 Keys.Register("K", "K", "Calculatrice", function() -- Defini sur la touche K
