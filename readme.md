@@ -3,3 +3,6 @@ Vous devez ajouter "ensure (nom du dossier contenant cette ressource)" dans votr
 
 ## Ouverture du menu 
 Touche : K
+
+## Probleme rencontre
+Si l'utilisateur entre dans son expresion () ou )( la calculatrice plante
