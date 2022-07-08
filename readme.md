@@ -6,3 +6,6 @@ Touche : K
 
 ## Probleme rencontre
 Si l'utilisateur entre dans son expresion () ou )( la calculatrice plante
+
+## Credit 
+General Zod
